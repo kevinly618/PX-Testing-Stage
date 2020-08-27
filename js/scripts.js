@@ -2,11 +2,12 @@
 
 
 // GAINSIGHT PX INITIALIZER/binder  Logged in Visitors
-(function(n,t,a,e){var i="aptrinsic";n[i]=n[i]||function(){
-    (n[i].q=n[i].q||[]).push(arguments)},n[i].p=e;
-  var r=t.createElement("script");r.async=!0,r.src=a+"?a="+e;
-  var c=t.getElementsByTagName("script")[0];c.parentNode.insertBefore(r,c)
-})(window,document,"https://web-sdk.aptrinsic.com/api/aptrinsic.js","AP-9EQZKYSPO8MH-2-3");
+<script type="text/javascript">
+  (function(n,t,a,e){var i="aptrinsic";n[i]=n[i]||function(){
+      (n[i].q=n[i].q||[]).push(arguments)},n[i].p=e;
+    var r=t.createElement("script");r.async=!0,r.src=a+"?a="+e;
+    var c=t.getElementsByTagName("script")[0];c.parentNode.insertBefore(r,c)
+  })(window,document,"https://web-sdk.aptrinsic.com/api/aptrinsic.js","AP-9EQZKYSPO8MH-2-2");
 
 function loginA(){
   var a = "kevinly618_Stage@gmail.com"
