@@ -2,7 +2,6 @@
 
 
 // GAINSIGHT PX INITIALIZER/binder  Logged in Visitors
-<script type="text/javascript">
   (function(n,t,a,e){var i="aptrinsic";n[i]=n[i]||function(){
       (n[i].q=n[i].q||[]).push(arguments)},n[i].p=e;
     var r=t.createElement("script");r.async=!0,r.src=a+"?a="+e;
