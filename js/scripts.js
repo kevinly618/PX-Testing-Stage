@@ -8,6 +8,7 @@
   var c=t.getElementsByTagName("script")[0];c.parentNode.insertBefore(r,c)
 })(window,document,"https://web-sdk.aptrinsic.com/api/aptrinsic.js","AP-9EQZKYSPO8MH-2-2");
 
+
 // LOGIN PORTION AND PX IDENTIFY CODE
 function login() {
   //var a = document.form.usermail.value;
@@ -19,7 +20,6 @@ function login() {
     if (a == "kevinly618_Stage@gmail.com") {
       alert("valid User");
       b = a.substr(0, 8);
-
 
 //PX IDENTIFICAITON PORTION for Known Vistors
       aptrinsic("identify",
